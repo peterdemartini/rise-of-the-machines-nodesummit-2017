@@ -17,6 +17,12 @@ Level 2, Main Stage @ 1675 OWENS STREET, SAN FRANCISCO, CALIFORNIA 94158
   - [key](/rise-of-the-machines.key)
 * [Octoblu](https://www.octoblu.com/)
 * [Citrix](https://www.citrix.com/)
+* Demo Projects
+  - [meshblu-interaction-monitor](https://github.com/octoblu/meshblu-interaction-monitor)
+  - [node-summit-chatbot](https://github.com/octoblu/node-summit-chatbot)
+  - [nodesummit-beekeeper-manager](https://github.com/octoblu/nodesummit-beekeeper-manager)
+  - [nodesummit-api-ai-service](https://github.com/octoblu/nodesummit-api-ai-service)
+  - [nodesummit octoswarm demo](https://github.com/peterdemartini/octoswarm-stacks)
 * Projects Discussed
   - Meshblu
     - [meshblu](https://github.com/octoblu/meshblu)
@@ -26,7 +32,6 @@ Level 2, Main Stage @ 1675 OWENS STREET, SAN FRANCISCO, CALIFORNIA 94158
   - Octoswarm
     - [octoswarm](https://github.com/octoblu/octoswarm)
     - [octoswarm tools](https://github.com/octoblu/ops-tools-octoswarm)
-    - [nodesummit octoswarm demo](https://github.com/peterdemartini/octoswarm-stacks)
   - Beekeeper
     - [beekeeper-service](https://github.com/octoblu/beekeeper-service)
     - [beekeeper-worker](https://github.com/octoblu/beekeeper-worker)
