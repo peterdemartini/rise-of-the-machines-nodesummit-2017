@@ -17,6 +17,7 @@ Level 2, Main Stage @ 1675 OWENS STREET, SAN FRANCISCO, CALIFORNIA 94158
   - [key](/rise-of-the-machines.key)
 * [Octoblu](https://www.octoblu.com/)
 * [Citrix](https://www.citrix.com/)
+* [Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
 * Demo Projects
   - [meshblu-interaction-monitor](https://github.com/octoblu/meshblu-interaction-monitor)
   - [node-summit-chatbot](https://github.com/octoblu/node-summit-chatbot)
