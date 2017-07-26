@@ -40,3 +40,9 @@ Level 2, Main Stage @ 1675 OWENS STREET, SAN FRANCISCO, CALIFORNIA 94158
     - [beekeeper-updater-docker-compose](https://github.com/octoblu/beekeeper-updater-docker-compose)
     - [beekeeper-updater-docker-stack](https://github.com/octoblu/beekeeper-updater-docker-stack)
     - [gump](https://github.com/octoblu/unix-dev-tools-gump)
+* 3rd Party Projects
+  - [docker](https://www.docker.com)
+  - [travis-ci](https://travis-ci.org)
+  - [codefresh](https://codefresh.io/)
+  - [aws](https://aws.amazon.com/)
+  - [github](https://github.com/)
